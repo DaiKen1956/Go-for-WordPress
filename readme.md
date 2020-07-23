@@ -118,5 +118,5 @@ The easiest way to install is via the plugin manager of WordPress. Search for th
 
 As mentioned above, the plugin is not maintained actively anymore and can be used as is. But feel free to fork and create a pull request.
 
-### Forked
+## Forked
 23-07-2020 first fork to DaiKen1956
